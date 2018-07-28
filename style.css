@@ -1,0 +1,39 @@
+.jumbotron {
+    background-image: url(http://i66.tinypic.com/28am9fs.jpg);
+    color: #fff;
+    background-size: cover;
+    min-height: 300px;
+}
+
+p {
+    text-align: center;
+}
+
+.lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+    text-align: center;
+}
+
+.tombol {
+    margin: 15px 0px 15px 0px;
+}
+
+h2 {
+    /* padding : 20px; */
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+.bg-hijau {
+    background-color: #0bc72a;
+    color: #fff;
+}
+
+.garis {
+    border-top: 1px solid #e7e7e7; 
+}
+
