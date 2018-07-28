@@ -37,3 +37,17 @@ h4 {
     border-top: 1px solid #e7e7e7; 
 }
 
+.kiri {
+    float: left;
+}
+
+.kanan {
+    float: right;
+    color: red;
+    font-weight: 400;
+}
+
+.card:hover {
+    background-color: #fff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
